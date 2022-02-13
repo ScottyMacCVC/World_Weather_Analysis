@@ -16,6 +16,6 @@
 
 ## The Vacation_Itinerary folder with the following:
 
-- The Vacation_Itinerary.ipynb file - # 8. Creates a marker layer map between the four cities. Combine the four city DataFrames into one DataFrame using the concat() function. 
+- The Vacation_Itinerary.ipynb file - Creates a marker layer map between the four cities. Combine the four city DataFrames into one DataFrame using the concat() function. 
 - The WeatherPy_travel_map.png image
 - The WeatherPy_travel_map_markers.png image
